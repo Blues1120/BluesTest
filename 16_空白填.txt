@@ -1,0 +1,25 @@
+填寫範例
+
+name: 
+
+nickName: 
+
+past: 
+
+now: 
+
+future: 
+
+
+what kind of app will you design in this class?
+
+what kind of role in a app group you want to be?
+a. generate idea/future 
+b. programmer
+c. UI/UX designer
+( a->b->c )
+
+是否曾上過 app基礎、進階？
+
+
+
